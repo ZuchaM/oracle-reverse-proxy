@@ -8,7 +8,7 @@ This guide will walk you through setting up a web server on your homelab and mak
 
 ### Step 1.1: Installing Podman
 
-Choose your distribution and follow the corresponding installation instructions:
+Choose the distribution running on your homelab server and follow the corresponding installation instructions:
 
 #### Arch Linux
 ```bash
